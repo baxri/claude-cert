@@ -1,0 +1,8 @@
+# Personal Claude Code settings
+.claude/settings.local.json
+
+# Third-party material (not redistributable)
+*.pdf
+tutorials/Antropic Offical /
+
+.DS_Store
